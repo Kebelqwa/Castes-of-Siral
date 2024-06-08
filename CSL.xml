@@ -1,0 +1,3702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>CSL</name>
+      <longname>Castes of Siral</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Seya Hexblade</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Faerie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Sacrifice Seya Hexblade: Target creature you control gains flying and hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Olphris Hexblade</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Lifelink
+When Olphris Hexblade enters, you gain X life and target opponent loses X life, where X is the mana value of the card expended to cast Olphris Hexblade.</text>
+    </card>
+    <card>
+      <name>Kroll Hexblade</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kroll Hexblade enters, you may discard a card. If you do, Scry 2 then draw a card.
+1R, Exile an instant or sorcery card from your graveyard: Kroll Hexblade deals 2 damage to target player or planeswalker.</text>
+    </card>
+    <card>
+      <name>Arvitch Hexblade</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever one or more creature cards leave your graveyard, put a +1/+1 counter on up to one target creature you control.</text>
+    </card>
+    <card>
+      <name>Haldor Hexblade</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4G: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+First strike</text>
+    </card>
+    <card>
+      <name>Seya Forethinker</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Faerie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Seya Forethinker enters, reveal the top four cards of your library. You may put an instant or sorcery card revealed this way into your hand. Put all other cards revealed this way into your graveyard</text>
+    </card>
+    <card>
+      <name>Kroll Requisitioner</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Kroll Requisitioner enters, tap up to one target creature. That creature doesn’t untap during its controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>Madia Rasilga, Kroll Sorceress</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from your hand that targets Madia Rasilga, counter up to one target spell.
+XB/RB/R: Madia Rasilga deals X damage to target creature. If that creature would die this way, put it on top of its owner’s library instead of its owner’s graveyard.</text>
+    </card>
+    <card>
+      <name>Fluxform Tutelage</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 4. Then reveal the top card of your library. If an instant or sorcery card is revealed this way, Fluxform Tutelage deals damage equal to that spell’s mana value to each player.</text>
+    </card>
+    <card>
+      <name>Marauding Mage</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+When Marauding Mage enters, return target creature to its owner’s hand. If a card was expended to cast Marauding Mage, that creatures owner instead puts that creature on the top or bottom of their library.</text>
+    </card>
+    <card>
+      <name>Arcane Strength</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains first strike until end of turn.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Timely Heroics</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn. If that creature entered the battlefield this turn, it gets +4/+4 until end of turn instead.</text>
+    </card>
+    <card>
+      <name>Winterwalk Elk</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2G: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+When Winterwalk Elk enters, prevent all combat damage that would be dealt to target creature you control this turn.</text>
+    </card>
+    <card>
+      <name>Monster Quake</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Farscape</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}, Sacrifice Farscape: Search your library for a basic land. Put that card onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Magus of Skies</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you a spell, if you’ve cast another spell this turn, up to one other target creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Haldor Punisher</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>5RR: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+First strike</text>
+    </card>
+    <card>
+      <name>Deathcast Lich</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Deathcast Lich enters, put the top four cards of your library into your graveyard.
+Mould—Sacrifice a creature without mould. (Sacrifice a creature without mould, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Hallowed Host</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)</text>
+    </card>
+    <card>
+      <name>Courageous Deed</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Target creature gets +2/+2 until end of turn. If a card was expended to cast Courageous Deed, that creature also gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Unlife Emissary</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mould {B} ({B}, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Outskirt Strangelings</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Weird </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+Trample</text>
+    </card>
+    <card>
+      <name>Tome Inspector</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tome Inspector enters, scry 2.</text>
+    </card>
+    <card>
+      <name>Kroll Trickster</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{3}, Sacrifice Kroll Trickster: Return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Rasilga&apos;s Denial</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target spell to its owner’s hand. Draw two cards.</text>
+    </card>
+    <card>
+      <name>Aek Guardian</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Aek Guardian is exiled from your graveyard, draw a card.
+Mould 4G (4G, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Moonlight Hunter</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 5G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Hexproof from abilities (This creature can’t be the target of abilities your opponents control.)
+Enchanted creature gets +3/+2 and has hexproof from abilities.</text>
+    </card>
+    <card>
+      <name>Etis Summoner</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an aura you control becomes attached to a creature you control, create a 1/1 white Bird creature token with flying.</text>
+    </card>
+    <card>
+      <name>Dark Premonitions</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+You lose 3 life and draw three cards. If a card was expended to cast Dark Premonitions, each opponent loses 3 life.</text>
+    </card>
+    <card>
+      <name>Horde Hellkite</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1R: Creatures you control get +1/+0 until end of turn. Horde Hellkite deals 1 damage to each player.</text>
+    </card>
+    <card>
+      <name>Boonkeeper Wolves</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchanted creature you control becomes blocked by exactly one creature, you may return the defending creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Arcanum Spirit</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever one or more cards leave your graveyard, up to one other target creature you control gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Tlanoc Scalelord</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lizard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Mould 5G (5G, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Tlanoc Abomination</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tlanoc Abomination is exiled from your graveyard, target creature gets -3/-3 until end of turn.
+Mould 5BG (5BG, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Grand Appearance</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top four cards of your library. You may put a card from among them that shares a name with a permanent you control into your hand. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Cruel Lich</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cruel Lich enters, target opponent discards a card.
+Mould 2BB (2BB, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Expanse Sniper</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 2W (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Sacrifice this permanent: Destroy target attacking creature. Activate this ability only if Expanse Sniper is an aura.</text>
+    </card>
+    <card>
+      <name>Sweep Away</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. If that creature is attacking, you may put it on top of its owner’s library instead.</text>
+    </card>
+    <card>
+      <name>Pit Rats</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Sacrifice a creature: Put a +1/+1 counter on target creature.
+Mould 3B (3B, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Rumbleform Liege</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3R: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+When Rumbleform Liege enters, destroy target land.</text>
+    </card>
+    <card>
+      <name>Rumbleform Elemental</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rumbleform Elemental enters tapped.
+When Rumbleform Elemental enters, it doesn’t untap during your next untap step.</text>
+    </card>
+    <card>
+      <name>Boon Raider</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Boon Raider becomes tapped, add two mana in any combination of colors at the beginning of your next main phase.</text>
+    </card>
+    <card>
+      <name>Seal of Antimagic</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Seal of Antimagic: Target creature you control gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Clan Veteran</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4W: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+Clan Veteran has first strike as long as its your turn.</text>
+    </card>
+    <card>
+      <name>Seyan Banisher</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3W (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+When Seyan Banisher enters as an Aura, exile target creature with power 4 or greater until Seyan Banisher isn’t an Aura.</text>
+    </card>
+    <card>
+      <name>Etis Paragon</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Etis Paragon and at least two other creatures you control attack or block, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Foresword Commander</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3W (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Whenever Foresword Commander or enchanted creature attacks, other creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Fortifier Knight</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Elf Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3W (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Enchanted creature gets +2/+1.</text>
+    </card>
+    <card>
+      <name>Ghostly Shield</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature. If that creature would deal damage this turn, it deals double that damage instead. Prevent all combat damage that would be dealt this turn by other creatures.</text>
+    </card>
+    <card>
+      <name>Knight of Ancient Tresh</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, vigilance
+2RW, Sacrifice another attacking creature: Knight of Ancient Tresh gains indestructible until end of combat.</text>
+    </card>
+    <card>
+      <name>Lynxpact Knight</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4W: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+When Lynxpact Knight enters, put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Merciful Spirit</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Merciful Spirit enters, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Sentimental Seyan</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+    </card>
+    <card>
+      <name>Knight of Tribulations</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Hexproof from red
+Knight of Tribulations gets +1/+0 as long as a player controls a red permanent.</text>
+    </card>
+    <card>
+      <name>Seize the Soul</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. That creature’s controller creates a 1/1 white Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>Meadow Ambusher</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1W: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+Whenever Meadow Ambusher dies, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Seyan Forcemage</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+3W, Sacrifice Seyan Forcemage: Exile target creature you control. Then return it to the battlefield.</text>
+    </card>
+    <card>
+      <name>Solmist Warrior</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2WW: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+Lifelink
+Other blocked creatures you control get +2/+2.</text>
+    </card>
+    <card>
+      <name>Skilled Diplomat</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Skilled Diplomat enters, up to one target creature can’t attack or block until Skilled Diplomat leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Wasteland Practicioner</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Enchantment creatures and Enchanted creatures you control have lifelink.</text>
+    </card>
+    <card>
+      <name>Tomorrow&apos;s Intrigue</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Counter target spell unless its controller pays {1} for each card you own in exile.</text>
+    </card>
+    <card>
+      <name>Aether Pulse</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to X target nonland permanents. Those permanents don’t untap during their controllers’ next untap steps.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Aether Twirl</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature and return another target creature to its owner’s hand.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Goliath Drake</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Goliath Drake attacks, other creatures you control gain flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Drake Darkling</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Drake Darkling can’t block or be blocked by creatures with flying.</text>
+    </card>
+    <card>
+      <name>Truthtwister Sprite</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Faerie Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 4UU (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Truthtwister Sprite and enchanted creature can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Illuminate</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature. Scry 1.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Riftborn Mindsealer</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UUU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Riftborn Mindsealer enters, gain control of target creature until Riftborn Mindsealer leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Spell Parasite</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target spell an opponent controls unless its controller sacrifices target nonland permanent. If you gain control of a spell this way, you may choose new targets for it.</text>
+    </card>
+    <card>
+      <name>Unprecedented Results</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top four cards of your library. Put one of those cards into your hand. Exile the rest.</text>
+    </card>
+    <card>
+      <name>Boneyard Dragon</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+Whenever a creature you control attacks, the defending player loses 1 life.</text>
+    </card>
+    <card>
+      <name>Roofjumper</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+2BB: Regenerate Roofjumper. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    </card>
+    <card>
+      <name>Olphris Forcemage</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{B}, Sacrifice Olphris Forcemage: Target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard that have a mana value equal to or greater than that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>Strike with Fear</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Target player discards two cards. If a card was expended to cast this spell, that player also loses 2 life.</text>
+    </card>
+    <card>
+      <name>Arvitch Butcher</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever one or more cards you own are put into exile from your graveyard, target creature gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Arvitch Forcemage</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+2RR, Sacrifice Arvitch Forcemage: Arvitch Forcemage deals 4 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Orcish Gutwrencher</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Orc Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3R: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+Double strike
+4RR: Orcish Gutwrencher gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Dragonlord Blast</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Dragonlord Blast deals 4 damage divided as you choose among any number of targets.</text>
+    </card>
+    <card>
+      <name>Feral Earth</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mould 1R (1R, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Exiled Firebrand</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice Exiled Firebrand: The next time a red source you control would deal noncombat damage this turn, it deals that much damage plus 2 instead.</text>
+    </card>
+    <card>
+      <name>Homeland Obliteratation</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target land. Then if that land was nonbasic, return Homeland Obliteratation to its owner’s hand.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Impflesh</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and has menace.
+When Impflesh is put into a graveyard from the battlefield, you may have it deal 2 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Infusion Shardshank</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{R}: Infusion Shardshank gets +1/+0 until end of turn. Sacrifice Infusion Shardshank at beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Plumes of Destruction</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell, you may pay 1R and sacrifice Plumes of Destruction. If you do, it deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Primordial Atronach</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GGG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, hexproof
+Spells and abilities your opponents control can’t cause you to sacrifice permanents.
+When Primordial Atronach dies, you may return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Elusive Arachnid</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Elusive Arachnid can’t block more than one creature and can’t be blocked by more than one creature.
+Whenever a creature enters under an opponents control during combat, remove that creature from combat.</text>
+    </card>
+    <card>
+      <name>Fogwalker Behemoth</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fogwalker Behemoth enters or is exiled from your graveyard, untap up to three target lands you control.
+Mould 2G (2G, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Haldor Forcemage</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4GG, Sacrifice Haldor Forcemage: Put three +1/+1 counters on target creature you control. That creature fights target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Ghost Spider</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Bestow 3G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Enchanted creature gets +2/+2 and has reach.</text>
+    </card>
+    <card>
+      <name>Oaken Groundshouker</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>5GW</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Treefolk Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Enchanted creatures you control have trample.</text>
+    </card>
+    <card>
+      <name>Crop Rotation</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a land.
+Search your library for a land card and put that card onto the battlefield. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Worldrender Hydra</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this spell is countered, return Worldrender Hydra from exile or your graveyard to its owner’s hand
+Trample, hexproof
+Worldrender Hydra enters with X +1/+1 counters.</text>
+    </card>
+    <card>
+      <name>Kroll Charm</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Kroll Charm deals 5 damage to any target.
+• You may discard any number of cards from your hand. Draw that many cards plus two.
+• Counter target spell. Draw a card</text>
+    </card>
+    <card>
+      <name>Haldor Charm</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Creatures you control get +1/+1 and gain indestructible until end of turn.
+• Creatures you control gain double strike until end of turn.
+• Untap each creature you control.</text>
+    </card>
+    <card>
+      <name>Aether Forcemage</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1UU, Sacrifice Aether Forcemage: Counter target spell unless that spell’s controller has you draw two cards.</text>
+    </card>
+    <card>
+      <name>Arvitch Charm</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>2BRG</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target noncreature permanent.
+• Put a +1/+1 counter on each creature you control.
+• Return target creature card from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Seyan Charm</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>2GWU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• For each of up to two target attacking creatures, that creature’s owner puts them on the top or bottom of their library.
+• Attach any number of auras you control to target creature. Draw a card.
+• Draw three cards.</text>
+    </card>
+    <card>
+      <name>Olphris Charm</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>2WUB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Look at the top five cards of target player’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.
+• Target player discards three cards.
+• Draw four cards, then discard two cards.</text>
+    </card>
+    <card>
+      <name>Shimmering Dawn</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>5GW</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control attacks, put a +1/+1 counter on it.
+Whenever a creature you control with one or more counters dies, move all its counters to another target creature you control that already has one or more counters.</text>
+    </card>
+    <card>
+      <name>Shot in the Dark</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature. Draw a card.</text>
+    </card>
+    <card>
+      <name>Hexsnatch Golem</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hexsnatch Golem enters, if it was cast, return up to one target instant or sorcery card with mana value 3 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Primordial Ritualist</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Primordial Ritualist is exiled from your graveyard, target creature gains menace until end of turn.
+Mould 3BG (3BG, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Cling to Survival</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all damage that would be dealt to target creature this turn. If damage is prevented this way, Cling to Survival deals that much damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Skyraid Darter</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+{R}: Skyraid Darter gets +1/+0 and gains trample until end of turn. Sacrifice it at the beginning of your next end step.</text>
+    </card>
+    <card>
+      <name>Fragmented Persona</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/-3 and has menace.</text>
+    </card>
+    <card>
+      <name>Kroll Inquisitor</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kroll Inquisitor can’t be the target of spells or abilities with only one target.
+Whenever you cast an instant or sorcery spell, Kroll Inquisitor gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Sigiled Tiger</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sigiled Tiger enters, target creature you control gains trample until Sigiled Tiger leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Brainstorm</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then put two cards from your hand on top of your library in any order.</text>
+    </card>
+    <card>
+      <name>Mournful Comrade</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}, Discard up to two cards: Draw a card for each card discarded this way.</text>
+    </card>
+    <card>
+      <name>Mantle Healing</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Target player gains 3 life. If a card was expended to cast Mantle Healing, draw a card.</text>
+    </card>
+    <card>
+      <name>Aek Predator</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 4GG (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+When Aek Predator becomes attached to a creature, that creature fights target creature an opponent controls.
+Enchanted creature gets +3/+3.</text>
+    </card>
+    <card>
+      <name>Knight of Despair</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Hexproof from green
+Knight of Despair gets +1/+0 as long as a player controls a green permanent.</text>
+    </card>
+    <card>
+      <name>Surveil the Grounds</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to three basic land cards with different names. Put one of them onto the battlefield tapped and the rest into your hand. Then shuffle.</text>
+    </card>
+    <card>
+      <name>No Hesitation</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains haste until end of turn and you may have it assign its combat damage as though it weren’t blocked this turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Mana Architect</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Add two mana in any combination of colors.
+{4}, {T}: Add WUBRG.</text>
+    </card>
+    <card>
+      <name>Mage of the Elder Realm</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Mage of the Elder Realm can’t be blocked if a card you own was put into exile this turn.</text>
+    </card>
+    <card>
+      <name>Truth&apos;s Deliverance</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Remove target attacking or blocking creature from combat. If a card was expended to cast Truth’s Deliverance, it deals 4 damage to that creature.</text>
+    </card>
+    <card>
+      <name>Kroll Witch</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hag Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kroll Witch can’t be blocked if you’ve cast two or more spells this turn.</text>
+    </card>
+    <card>
+      <name>Snapshifter</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Snapshifter can’t be blocked.
+When Snapshifter enters, if you cast it, put up to one target nonland permanent on top of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Life Unrequited</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield tapped.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Cunning Jailer</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever an aura becomes attached to Cunning Jailer, exile up to one target creature until Cunning Jailer leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Revenge Fulfilled</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature that dealt combat damage to you this turn. That creature’s controller loses life equal to the amount of damage that creature dealt to you this turn.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Greenfist Provoker</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3G: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+Creature cards in your hand have “{X}: Pitfall”, where X is that creature’s mana cost.</text>
+    </card>
+    <card>
+      <name>Arcane Parasitism</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Arcane Parasitism enters, target opponent reveals their hand, then exiles a nonland card from their hand.
+Sacrifice Arcane Parasitism: You may cast cards exiled with Arcane Parasitism until the beginning of your next turn.</text>
+    </card>
+    <card>
+      <name>Slave of Death</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+When Slave of Death enters, if a card was expended to cast it, return target creature card from your graveyard to the battlefield until Slave of Death leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Hunt the Lost</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control and a +1/+1 counter on target creature you don’t control. Those creatures fight. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Primeval Genesis</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, exile any number of creature cards from your graveyard.
+Create a 0/0 green Elemental creature token with X +1/+1 counters, where X is the total power of creature cards exiled to cast Primeval Genesis.</text>
+    </card>
+    <card>
+      <name>Emberflesh Salamander</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Salamander </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{R}: Emberflesh Salamander gets +1/+0 until end of turn.
+2R: Target creature gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Consuming Flames</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to three different targets. Consuming Flames deals 3 damage to the first, 2 damage to the second, and 1 damage to the third. This damage can’t be prevented. (Each must be a different target.)</text>
+    </card>
+    <card>
+      <name>Gilded Seraph</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast an enchantment spell, draw a card.
+Gilded Seraph gets +1/+0 for each Aura attached to it.</text>
+    </card>
+    <card>
+      <name>Bragvir&apos;s Gambit</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Target creature gets -4/-0 until end of turn. Then if a card was expended to cast Bragvir’s Gambit, return it to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Chronomancer&apos;s Trickery</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+At the beginning of your next end step, untap each land you control. If a card was expended to cast Chronomancer’s Trickery, draw a card.</text>
+    </card>
+    <card>
+      <name>Stormcast Drake</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Flying
+Stormcast Drake enters with a +1/+1 counter on it if a card was expended to cast it.</text>
+    </card>
+    <card>
+      <name>Unsightly Insight</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Draw two cards. Draw an additional card if a card was expended to cast Unsightly Insight.</text>
+    </card>
+    <card>
+      <name>Witness the Nightmare</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Target player reveals his or her hand. If a card was expended to cast this spell, choose a nonland card with mana value less than or equal to the mana value of the expended card, that player discards the chosen card. Otherwise that player discards a card at random.</text>
+    </card>
+    <card>
+      <name>Gorecrash Null</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gorecrash Null dies, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Brotherhood Medic</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature or enchantment enters under your control, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Fortuitous Fortune</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Fortuitous Fortune enters, gain control of target creature for as long as you control Fortuitous Fortune.
+Discard another card named Fortuitous Fortune: Gain control of target creature for as long as you control Fortuitous Fortune. Activate this ability only any time you could cast a sorcery</text>
+    </card>
+    <card>
+      <name>Dreadlands Impaler</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+    </card>
+    <card>
+      <name>Riftborn Seeker</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shade </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mould {B} ({B}, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)
+When Riftborn Seeker is exiled from your graveyard, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Brotherhood Revanant</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters under your control, put a +1/+1 counter on Brotherhood Revanant. If that creature entered attacking, put a +1/+1 counter on that creature.</text>
+    </card>
+    <card>
+      <name>Flowering Atronach</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow {G} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Flowering Atronach and enchanted creature have “{T}: Add {G} for each aura attached to this creature.”</text>
+    </card>
+    <card>
+      <name>Stalking Leopard</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3G: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+When Stalking Leopard enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Wayward Nexus</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Wayward Nexus enters tapped with two charge counters.
+{T}: Add {U}.
+{U}, {T}, Remove a charge counter from Wayward Nexus: Scry 1</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Cultivator Druid</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Cultivator Druid: You may put a land card from your hand onto the battlefield.
+When Cultivator Druid dies, you may pay 1G. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Chivalrous Keeper</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever an Aura or Equipment becomes attached to Chivalrous Keeper, tap target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Ruos, the Crusader</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Ruos </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Target creature gains haste, lifelink, and vigilance until end of turn.
+[0]: Whenever you gain life this turn, you may have Ruos, the Crusader deal that much damage to target creature or planeswalker.
+[-8]: You get an emblem with “Spells and permanents you control have lifelink.”</text>
+    </card>
+    <card>
+      <name>Betrayed Watcher</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast Betrayed Watcher, choose another creature you control.
+When the chosen creature leaves the battlefield, return a creature you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Hydrokin</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 1GU (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Hydrokin and enchanted creature get +1/+1 for each of their colors.</text>
+    </card>
+    <card>
+      <name>Mentor of the Meek</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature with power 2 or less enters under your control, you may pay {1}. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Disarming Ray</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage target creature would deal this turn. Destroy up to one target Aura or Equipment attached to that creature.</text>
+    </card>
+    <card>
+      <name>Fieldtreader Paladin</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever a creature dealt damage by Fieldtreader Paladin this turn dies, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Riftborn Necromancer</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hag Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you cast a spell, if you’ve cast another spell this turn, create a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Eternal Ghoul</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature you control dies, create a 2/2 black Zombie creature token.
+6B: Target player loses life equal to the number of Zombies you control.</text>
+    </card>
+    <card>
+      <name>Unexpected Diversion</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to two target creatures can’t block this turn.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Shadow Mage</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shade Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Shadow Mage enters, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>Demigod&apos;s Fervor</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+0 and has haste.
+Whenever enchanted creature deals combat damage to a player, you may return Demigod’s Fervor to its owners hand.</text>
+    </card>
+    <card>
+      <name>Arcanum Benefactor</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, scry 1.
+3U, Sacrifice Arcanum Benefactor: Draw a card.</text>
+    </card>
+    <card>
+      <name>Grafted Wings</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has flying.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Madia&apos;s Stratagem</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>2UBR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Your opponents play with their hands revealed.
+Whenever your opponent draws a card, that player reveals it. You may discard a card that shares a type with the revealed card. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>Blaze Baron</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Orc </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Blaze Baron enters, target creature you control gains double strike until Blaze Baron leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Magus of the Lantern</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+Lands you control have “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Napalm Elemental</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>4BR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Napalm Elemental enters or dies, it deals 3 damage to any non-player target.
+Mould 2BR (2BR, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Loc, Arcunum Prefect</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+2W/UW/U: Exile Loc, Arcunum Prefect and up to one other target nonland permanent until end of turn.</text>
+    </card>
+    <card>
+      <name>Razorglaive Slayer</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Razorglaive Slayer enters, target creature you control gains deathtouch until Razorglaive Slayer leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Looming Presence</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2
+When enchanted creature dies, create a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Krikam, the Wanderer</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 1GWU (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Krikam, the Wanderer and enchanted creature have protection from nonenchanted creatures. (This creature can’t be blocked, targeted or dealt damage by nonenchanted creatures.)</text>
+    </card>
+    <card>
+      <name>Reliquary Tower</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>You have no maximum hand size.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Mage Gear</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “{T}: This creature deals 1 damage to target player or planeswalker.”
+{4}: Untap Equipped creature.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Fate Scribbler</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hag Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Fate Scribbler enters, draw two cards and lose 2 life.</text>
+    </card>
+    <card>
+      <name>Twisted Tutelage</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards a card.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Taritha the Liberator</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1RGW: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+When Taritha the Liberator enters or dies, you may have her deal 2 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Curious Arcanist</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3U (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Whenever Curious Arcanist or enchanted creature deal combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Dragonlord&apos;s Staff</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has haste.
+{2}: Equipped creature gets +1/+0 until end of turn.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Fraying Elemental</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Fraying Elemental is exiled from your graveyard, target creature gains haste until end of turn.
+Mould 2R (2R, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Leyline Keeper</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1B, {T}, Exile two cards from your graveyard that share a type: Return target card of that type from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Battle Broken</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target attacking or blocking creature with mana value 3 or less.</text>
+    </card>
+    <card>
+      <name>Baelfire Mage</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Baelfire Mage enters, the next time target spell, ability, or permanent you control would deal damage this turn, it deals twice that much damage instead.</text>
+    </card>
+    <card>
+      <name>Stormwield Gauntlet</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, it deals damage equal to its power to target creature or planeswalker defending player controls.
+Equipped creature gets +2/+0.
+Equip {6}</text>
+    </card>
+    <card>
+      <name>Emberflame Atronach</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3RR: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)
+Trample, haste
+When Emberflame Atronach deals combat damage to a player, sacrifice it.</text>
+    </card>
+    <card>
+      <name>Rubble Renegade</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+When Rubble Renegade is exiled from your graveyard, target creature gains double strike until end of turn.
+Mould 3RR (3RR, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Revert Perspective</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard up to two cards, then draw a card for each card discarded this way.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Seeker of Dark Truths</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hag Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever one or more cards you own leave your graveyard, you lose 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Mayhem Feaster</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Mayhem Feaster dies, you may pay 6 life. If you do, draw six cards.</text>
+    </card>
+    <card>
+      <name>Void Augur</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hag Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Void Augur enters tapped.
+Whenever one or more cards you own leave your graveyard, you may return Void Augur from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Goreling</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Goreling enters, target player sacrifices a creature. Put a number of +1/+1 counters on Goreling equal to the power of the creature sacrificed this way.</text>
+    </card>
+    <card>
+      <name>Dissipate</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard.</text>
+    </card>
+    <card>
+      <name>Rewrite Existence</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The controller of target spell or nonland permanent shuffles it into his or her library. Then reveals the top card of their library. That player may cast a nonland card revealed this way without paying its mana cost.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Strange Calm</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap each creature you don’t control.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Unusual Taming</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap that creature, it gains haste until end of turn. If you’ve cast another spell this turn, sacrifice that creature at the beginning of the next end step.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Brandishing Elf</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1G, {T}: Reveal cards from the top of your library until a land card is revealed this way. Target creature gets +1/+1 until end of turn for each card revealed this way. Shuffle the revealed cards into your library.</text>
+    </card>
+    <card>
+      <name>Wingless Guardian</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Faerie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land enters tapped under your control, add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Flourish</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may put a land card from your hand onto the battlefield.
+Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Dauntless Overgrowth</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant permanent
+Enchanted permanent is a colorless Forest land. (It loses all other types and abilities.)
+At the beginning of your upkeep, you may return Dauntless Overgrowth to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Cleansing Arbiter</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Flying, vigilance
+When Cleansing Arbiter enters, distribute X +1/+1 counter among any number of target creatures you control, where X is the mana value of the card expended to cast Cleansing Arbiter.</text>
+    </card>
+    <card>
+      <name>Ancient Favor</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each upkeep, tap target creature.</text>
+    </card>
+    <card>
+      <name>Arcanum Vanguard</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards are put into exile from your graveyard, put a +1/+1 counter on Arcanum Vanguard.</text>
+    </card>
+    <card>
+      <name>Expedite</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains haste until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Nurturing Peatland</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life: Add {B} or {G}.
+{1}, {T}, Sacrifice Nurturing Peatland: Draw a card.</text>
+    </card>
+    <card>
+      <name>Sunbaked Canyon</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life: Add {R} or {W}.
+{1}, {T}, Sacrifice Sunbaked Canyon: Draw a card.</text>
+    </card>
+    <card>
+      <name>Fiery Islet</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life: Add {U} or {R}.
+{1}, {T}, Sacrifice Fiery Islet: Draw a card.</text>
+    </card>
+    <card>
+      <name>Waterlogged Grove</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life: Add {G} or {U}.
+{1}, {T}, Sacrifice Waterlogged Grove: Draw a card.</text>
+    </card>
+    <card>
+      <name>Silent Clearing</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life: Add {W} or {B}.
+{1}, {T}, Sacrifice Silent Clearing: Draw a card.</text>
+    </card>
+    <card>
+      <name>Void Bauble</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{5}: Put Void Bauble and another target permanent you don’t control each on the bottom of their owners libraries.</text>
+    </card>
+    <card>
+      <name>Perplexing Codex</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Draw a card then discard a card.
+{T}, Sacrifice Perplexing Codex: Choose a card type. You gain life equal to the number of cards of the chosen type in your graveyard.</text>
+    </card>
+    <card>
+      <name>Photomancer&apos;s Lens</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add one mana of any color.
+{2}, {T}, Sacrifice Photomancer’s Lens: Draw a card.</text>
+    </card>
+    <card>
+      <name>Ezzerdrex, Dark Scion</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Ezzerdrex </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw two cards then discard two cards.
+[0]: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.
+[-6]: You get an emblem with “Whenever you cast an instant or sorcery spell, you may draw two cards.”</text>
+    </card>
+    <card>
+      <name>Arcanum Reject</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may sacrifice an artifact and discard a card. If you do, return Arcanum Reject from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Helmorak, Scepter of the Castes</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Other creatures you control that share a creature type with equipped creature get +1/+1 and have hexproof.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Arcanum Reverie</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target nonland permanents owner puts it on top of their library.
+When Arcanum Reverie is exiled from your graveyard, you may draw a card.</text>
+    </card>
+    <card>
+      <name>Rusted Automaton</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rusted Automaton enters, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Survivalist Domain</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Survivalist Domain enters tapped with two charge counters.
+{T}: Add {G}.
+{G}, {T}, Remove a charge counter from Survivalist Domain: Target creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Caste Stronghold</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Caste Stronghold enters tapped with two charge counters.
+{T}: Add {W}.
+{W}, {T}, Remove a charge counter from Caste Stronghold: Create a 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>Urchin&apos;s Cradle</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Urchin’s Cradle enters tapped with two charge counters.
+{T}: Add {B}.
+{B}, {T}, Remove a charge counter from Urchin’s Cradle: Each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Rugged Vantage</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rugged Vantage enters tapped with two charge counters.
+{T}: Add {R}.
+{R}, {T}, Remove a charge counter from Rugged Vantage: Discard a card then draw a card.</text>
+    </card>
+    <card>
+      <name>Kroll Forcemage</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Instant and sorcery spells you cast cost {1} less to cast.
+5U, Sacrifice Kroll Forcemage: Draw two cards.</text>
+    </card>
+    <card>
+      <name>Unphasing</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>GWU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target permanent you control until end of turn. If that permanent was an aura or an enchanted creature, draw two cards.</text>
+    </card>
+    <card>
+      <name>Darkened Dawn</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>WUB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put the top three cards of your library into your graveyard. Scry 3, then draw a card.</text>
+    </card>
+    <card>
+      <name>Haldor Antimagic</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target noncreature permanent and counter all abilities you don’t control.</text>
+    </card>
+    <card>
+      <name>Brutal Warmage</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>RGW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control must be blocked if able.</text>
+    </card>
+    <card>
+      <name>Darkveil Borderpost</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
+Darkveil Borderpost enters tapped.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Cinderstorm Borderpost</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
+Cinderstorm Borderpost enters tapped.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Direwood Borderpost</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
+Direwood Borderpost enters tapped.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Midland Borderpost</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
+Midland Borderpost enters tapped.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Mossfall Borderpost</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay {1} and return a basic land you control to its owner’s hand rather than pay this spell’s mana cost.
+Mossfall Borderpost enters tapped.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Cry of the Worldsoul</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures and planeswalkers.</text>
+    </card>
+    <card>
+      <name>Will of the Seven</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top seven cards of your library. You may cast an instant or sorcery card revealed this way without paying its mana cost. Put all other cards revealed this way into your hand.</text>
+    </card>
+    <card>
+      <name>Sparkeater Hellkite</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Protection from planeswalkers
+Whenever Sparkeater Hellkite attacks, defending player sacrifices a planeswalker. If that player doesn’t, they sacrifice an artifact.</text>
+    </card>
+    <card>
+      <name>Vaato, Banished Necromancer</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Vaato, Banished Necromancer dies, choose target creature card in your graveyard. You may pay {X}, where X is twice that creature’s mana value. If you do, return Vaato, Banished Necromancer and that creature from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Harron, Interplanar Zoologist</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Harron </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Put a +1/+1 counter on target creature you control.
+[-2]: Reveal the top three cards of your library. You may put a creature card revealed this way into your hand. Put the rest on the bottom of your library in a random order.
+[-6]: Draw a card for each creature you control.</text>
+    </card>
+    <card>
+      <name>Split Eternities</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less for each card you own in exile.
+Exile target attacking creature or activating planeswalker. (A planeswalker is considered activating while it is the source of a loyalty ability on the stack.)</text>
+    </card>
+    <card>
+      <name>Direflame</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards then discard a card. Direflame deals damage equal to the discarded card’s mana value to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Blossoming Defense</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 and gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Blighted Blades</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target creature you control gains deathtouch until end of turn.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Sword of the Written Word</name>
+      <set rarity="mythic">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and has protection from instants and sorceries.
+Whenever equipped creature deals combat damage to a player, exile up to one target card from that player’s graveyard and return up to one target instant or sorcery card from your graveyard to your hand.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Alchemist&apos;s Clock</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may return another permanent you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Keeper&apos;s Resolve</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or planeswalker
+If enchanted permanent would die, instead remove all damage from it and sacrifice Keeper’s Resolve. Put two +1/+1 counters on that permanent if it’s a creature then put two loyalty counters on that permanent if it’s a planeswalker.</text>
+    </card>
+    <card>
+      <name>Sorceror&apos;s Familiar</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell, if you’ve cast another spell this turn, Sorceror’s Familiar gets +1/+1 until end until end of turn.</text>
+    </card>
+    <card>
+      <name>Shadowstrike</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent loses 2 life. You gain 2 life.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Rally the Clans</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Rally the Clans deals damage equal to the number of attacking creatures you control to each opponent and each planeswalker they control.</text>
+    </card>
+    <card>
+      <name>Invigorator Tyrant</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature: Invigorator Tyrant gains trample until end of turn.
+Mould 1G (1G, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Slayer of Clans</name>
+      <set rarity="uncommon">CSL</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>2BRG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Slayer of Clans leaves your graveyard, return another target card in your graveyard to your hand.
+Mould BRG (BRG, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Kelaphel, Arvitch Deity</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>4BRG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may sacrifice another creature. If you do, search your library for a creature card and put it onto the battlefield, then shuffle.
+When Kelaphel, Arvitch Deity dies, return it to its owner’s hand at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Fleshfire Atronach</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fleshfire Atronach enters, it gains first strike until the beginning of your next turn.
+Mould 1R (1R, Exile another card with mould from your graveyard: Return this card from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.)</text>
+    </card>
+    <card>
+      <name>Impossibility Lash</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less for each other spell you’ve cast this turn.
+Impossibility Lash deals 3 damage to target creature or planeswalker.
+Reverb (Then draw a card if you’ve cast another spell this turn.)</text>
+    </card>
+    <card>
+      <name>Air Pocket</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target creature with flying. Draw a card.</text>
+    </card>
+    <card>
+      <name>Arcane Acquiescence</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Arcane Acquiescence enters, draw a card.
+Whenever you cast your second spell each turn, Arcane Acquiescence deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Frillmane Ambusher</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4RG: Pitfall (Put this creature onto the battlefield tapped, attacking, and in the conflict of your choice. Activate only if there is a conflict.)</text>
+    </card>
+    <card>
+      <name>Spellforce to Lifeforce</name>
+      <set rarity="common">CSL</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Expend (You may exile a card with higher mana value from your graveyard as an additional cost to cast this spell.)
+Counter target spell. You gain life equal to the mana value of the card expended to cast Spellforce to Lifeforce.</text>
+    </card>
+    <card>
+      <name>Expended Reserves</name>
+      <set rarity="rare">CSL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a card put into your graveyard this turn is exiled from your graveyard, create a 1/1 white Soldier creature token.
+{W}, Exile target card from a graveyard.</text>
+    </card>

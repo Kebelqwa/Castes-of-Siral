@@ -1,0 +1,2557 @@
+[CustomCards]
+	[    {
+	        "name": "Seya Hexblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Faerie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seya Hexblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Olphris Hexblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Olphris Hexblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kroll Hexblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kroll Hexblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arvitch Hexblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arvitch Hexblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Haldor Hexblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Haldor Hexblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seya Forethinker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Faerie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seya Forethinker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kroll Requisitioner",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kroll Requisitioner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madia Rasilga, Kroll Sorceress",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Madia Rasilga, Kroll Sorceress.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fluxform Tutelage",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fluxform Tutelage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Marauding Mage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Marauding Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcane Strength",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcane Strength.jpg"
+	        }
+	    },
+	    {
+	        "name": "Timely Heroics",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Timely Heroics.jpg"
+	        }
+	    },
+	    {
+	        "name": "Winterwalk Elk",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Winterwalk Elk.jpg"
+	        }
+	    },
+	    {
+	        "name": "Monster Quake",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Monster Quake.jpg"
+	        }
+	    },
+	    {
+	        "name": "Farscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Farscape.jpg"
+	        }
+	    },
+	    {
+	        "name": "Magus of Skies",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Magus of Skies.jpg"
+	        }
+	    },
+	    {
+	        "name": "Haldor Punisher",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Haldor Punisher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Deathcast Lich",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Deathcast Lich.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hallowed Host",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Hallowed Host.jpg"
+	        }
+	    },
+	    {
+	        "name": "Courageous Deed",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Courageous Deed.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unlife Emissary",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Unlife Emissary.jpg"
+	        }
+	    },
+	    {
+	        "name": "Outskirt Strangelings",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Weird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Outskirt Strangelings.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tome Inspector",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Tome Inspector.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kroll Trickster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kroll Trickster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rasilga's Denial",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rasilga's Denial.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aek Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Treefolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Aek Guardian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Moonlight Hunter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Moonlight Hunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Etis Summoner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Etis Summoner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dark Premonitions",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Dark Premonitions.jpg"
+	        }
+	    },
+	    {
+	        "name": "Horde Hellkite",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Horde Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Boonkeeper Wolves",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Boonkeeper Wolves.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcanum Spirit",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcanum Spirit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tlanoc Scalelord",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Lizard Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Tlanoc Scalelord.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tlanoc Abomination",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Tlanoc Abomination.jpg"
+	        }
+	    },
+	    {
+	        "name": "Grand Appearance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Grand Appearance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cruel Lich",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Cruel Lich.jpg"
+	        }
+	    },
+	    {
+	        "name": "Expanse Sniper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Expanse Sniper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sweep Away",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Sweep Away.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pit Rats",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Rat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Pit Rats.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rumbleform Liege",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rumbleform Liege.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rumbleform Elemental",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rumbleform Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Boon Raider",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Boon Raider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seal of Antimagic",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seal of Antimagic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Clan Veteran",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Clan Veteran.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seyan Banisher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seyan Banisher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Etis Paragon",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Etis Paragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Foresword Commander",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Foresword Commander.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fortifier Knight",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Elf Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fortifier Knight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ghostly Shield",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Ghostly Shield.jpg"
+	        }
+	    },
+	    {
+	        "name": "Knight of Ancient Tresh",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Knight of Ancient Tresh.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lynxpact Knight",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Lynxpact Knight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Merciful Spirit",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Merciful Spirit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sentimental Seyan",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Sentimental Seyan.jpg"
+	        }
+	    },
+	    {
+	        "name": "Knight of Tribulations",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Knight of Tribulations.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seize the Soul",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seize the Soul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Meadow Ambusher",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Meadow Ambusher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seyan Forcemage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elf Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seyan Forcemage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Solmist Warrior",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Solmist Warrior.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skilled Diplomat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Elf Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Skilled Diplomat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wasteland Practicioner",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Elf Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Wasteland Practicioner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tomorrow's Intrigue",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Tomorrow's Intrigue.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aether Pulse",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Aether Pulse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aether Twirl",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Aether Twirl.jpg"
+	        }
+	    },
+	    {
+	        "name": "Goliath Drake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Goliath Drake.jpg"
+	        }
+	    },
+	    {
+	        "name": "Drake Darkling",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Drake Darkling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Truthtwister Sprite",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Enchantment Creature — Faerie Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Truthtwister Sprite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Illuminate",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Illuminate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Riftborn Mindsealer",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}{U}{U}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Riftborn Mindsealer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spell Parasite",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Spell Parasite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unprecedented Results",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Unprecedented Results.jpg"
+	        }
+	    },
+	    {
+	        "name": "Boneyard Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Dragon Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Boneyard Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Roofjumper",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Roofjumper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Olphris Forcemage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Faerie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Olphris Forcemage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Strike with Fear",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Strike with Fear.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arvitch Butcher",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arvitch Butcher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arvitch Forcemage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arvitch Forcemage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Orcish Gutwrencher",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Orc Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Orcish Gutwrencher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragonlord Blast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Dragonlord Blast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Feral Earth",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Feral Earth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Exiled Firebrand",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Exiled Firebrand.jpg"
+	        }
+	    },
+	    {
+	        "name": "Homeland Obliteratation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Homeland Obliteratation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Impflesh",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Impflesh.jpg"
+	        }
+	    },
+	    {
+	        "name": "Infusion Shardshank",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Infusion Shardshank.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plumes of Destruction",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Plumes of Destruction.jpg"
+	        }
+	    },
+	    {
+	        "name": "Primordial Atronach",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Primordial Atronach.jpg"
+	        }
+	    },
+	    {
+	        "name": "Elusive Arachnid",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Elusive Arachnid.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fogwalker Behemoth",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fogwalker Behemoth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Haldor Forcemage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Haldor Forcemage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ghost Spider",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Ghost Spider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Oaken Groundshouker",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}{W}",
+	        "type": "Creature — Treefolk Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Oaken Groundshouker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crop Rotation",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Crop Rotation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Worldrender Hydra",
+	        "rarity": "mythic",
+	        "mana_cost": "{X}{G}",
+	        "type": "Creature — Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Worldrender Hydra.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kroll Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kroll Charm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Haldor Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Haldor Charm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aether Forcemage",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Aether Forcemage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arvitch Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arvitch Charm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seyan Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seyan Charm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Olphris Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Olphris Charm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shimmering Dawn",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Shimmering Dawn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shot in the Dark",
+	        "rarity": "common",
+	        "mana_cost": "{B}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Shot in the Dark.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hexsnatch Golem",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Hexsnatch Golem.jpg"
+	        }
+	    },
+	    {
+	        "name": "Primordial Ritualist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Primordial Ritualist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cling to Survival",
+	        "rarity": "common",
+	        "mana_cost": "{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Cling to Survival.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skyraid Darter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Skyraid Darter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fragmented Persona",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fragmented Persona.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kroll Inquisitor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kroll Inquisitor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sigiled Tiger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Sigiled Tiger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brainstorm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Brainstorm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mournful Comrade",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mournful Comrade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mantle Healing",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mantle Healing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aek Predator",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Enchantment Creature — Treefolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Aek Predator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Knight of Despair",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Knight of Despair.jpg"
+	        }
+	    },
+	    {
+	        "name": "Surveil the Grounds",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Surveil the Grounds.jpg"
+	        }
+	    },
+	    {
+	        "name": "No Hesitation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/No Hesitation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mana Architect",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mana Architect.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mage of the Elder Realm",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mage of the Elder Realm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Truth's Deliverance",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Truth's Deliverance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kroll Witch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Hag Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kroll Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Snapshifter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Snapshifter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Life Unrequited",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Life Unrequited.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cunning Jailer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Cunning Jailer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Revenge Fulfilled",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Revenge Fulfilled.jpg"
+	        }
+	    },
+	    {
+	        "name": "Greenfist Provoker",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Troll ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Greenfist Provoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcane Parasitism",
+	        "rarity": "common",
+	        "mana_cost": "{U}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcane Parasitism.jpg"
+	        }
+	    },
+	    {
+	        "name": "Slave of Death",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Slave of Death.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hunt the Lost",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Hunt the Lost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Primeval Genesis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Primeval Genesis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Emberflesh Salamander",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Salamander ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Emberflesh Salamander.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consuming Flames",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Consuming Flames.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gilded Seraph",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Gilded Seraph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bragvir's Gambit",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Bragvir's Gambit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chronomancer's Trickery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Chronomancer's Trickery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stormcast Drake",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Stormcast Drake.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unsightly Insight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Unsightly Insight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witness the Nightmare",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Witness the Nightmare.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gorecrash Null",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Beast Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Gorecrash Null.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brotherhood Medic",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Brotherhood Medic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fortuitous Fortune",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fortuitous Fortune.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreadlands Impaler",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Zombie Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Dreadlands Impaler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Riftborn Seeker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Shade ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Riftborn Seeker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brotherhood Revanant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Brotherhood Revanant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flowering Atronach",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Flowering Atronach.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stalking Leopard",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Stalking Leopard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wayward Nexus",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Wayward Nexus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cultivator Druid",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Cultivator Druid.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chivalrous Keeper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Chivalrous Keeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ruos, the Crusader",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Legendary Planeswalker — Ruos ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Ruos, the Crusader.jpg"
+	        }
+	    },
+	    {
+	        "name": "Betrayed Watcher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{W}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Betrayed Watcher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hydrokin",
+	        "rarity": "common",
+	        "mana_cost": "{G}{U}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Hydrokin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mentor of the Meek",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mentor of the Meek.jpg"
+	        }
+	    },
+	    {
+	        "name": "Disarming Ray",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Disarming Ray.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fieldtreader Paladin",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fieldtreader Paladin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Riftborn Necromancer",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Hag Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Riftborn Necromancer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eternal Ghoul",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Eternal Ghoul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unexpected Diversion",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Unexpected Diversion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shadow Mage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Shade Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Shadow Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Demigod's Fervor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Demigod's Fervor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcanum Benefactor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcanum Benefactor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Grafted Wings",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Grafted Wings.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madia's Stratagem",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Madia's Stratagem.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blaze Baron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Orc ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Blaze Baron.jpg"
+	        }
+	    },
+	    {
+	        "name": "Magus of the Lantern",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Magus of the Lantern.jpg"
+	        }
+	    },
+	    {
+	        "name": "Napalm Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Napalm Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Loc, Arcunum Prefect",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Legendary Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Loc, Arcunum Prefect.jpg"
+	        }
+	    },
+	    {
+	        "name": "Razorglaive Slayer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Razorglaive Slayer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Looming Presence",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Looming Presence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Krikam, the Wanderer",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}{W}{U}",
+	        "type": "Legendary Enchantment Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Krikam, the Wanderer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reliquary Tower",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Reliquary Tower.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mage Gear",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mage Gear.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fate Scribbler",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Hag Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fate Scribbler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Twisted Tutelage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Twisted Tutelage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Taritha the Liberator",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Taritha the Liberator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curious Arcanist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Curious Arcanist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragonlord's Staff",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Dragonlord's Staff.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fraying Elemental",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fraying Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Leyline Keeper",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Leyline Keeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battle Broken",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Battle Broken.jpg"
+	        }
+	    },
+	    {
+	        "name": "Baelfire Mage",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Baelfire Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stormwield Gauntlet",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Stormwield Gauntlet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Emberflame Atronach",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Emberflame Atronach.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rubble Renegade",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rubble Renegade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Revert Perspective",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Revert Perspective.jpg"
+	        }
+	    },
+	    {
+	        "name": "Seeker of Dark Truths",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Hag Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Seeker of Dark Truths.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mayhem Feaster",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mayhem Feaster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Void Augur",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Hag Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Void Augur.jpg"
+	        }
+	    },
+	    {
+	        "name": "Goreling",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Goreling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dissipate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Dissipate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rewrite Existence",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rewrite Existence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Strange Calm",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Strange Calm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unusual Taming",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Unusual Taming.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brandishing Elf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Brandishing Elf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wingless Guardian",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Faerie Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Wingless Guardian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flourish",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Flourish.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dauntless Overgrowth",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Dauntless Overgrowth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cleansing Arbiter",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Cleansing Arbiter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ancient Favor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Ancient Favor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcanum Vanguard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcanum Vanguard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Expedite",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Expedite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nurturing Peatland",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Nurturing Peatland.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sunbaked Canyon",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Sunbaked Canyon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fiery Islet",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fiery Islet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Waterlogged Grove",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Waterlogged Grove.jpg"
+	        }
+	    },
+	    {
+	        "name": "Silent Clearing",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Silent Clearing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Void Bauble",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Void Bauble.jpg"
+	        }
+	    },
+	    {
+	        "name": "Perplexing Codex",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Perplexing Codex.jpg"
+	        }
+	    },
+	    {
+	        "name": "Photomancer's Lens",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Photomancer's Lens.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ezzerdrex, Dark Scion",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Legendary Planeswalker — Ezzerdrex ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Ezzerdrex, Dark Scion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcanum Reject",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcanum Reject.jpg"
+	        }
+	    },
+	    {
+	        "name": "Helmorak, Scepter of the Castes",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Helmorak, Scepter of the Castes.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcanum Reverie",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcanum Reverie.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rusted Automaton",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rusted Automaton.jpg"
+	        }
+	    },
+	    {
+	        "name": "Survivalist Domain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Survivalist Domain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Caste Stronghold",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Caste Stronghold.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urchin's Cradle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Urchin's Cradle.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rugged Vantage",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rugged Vantage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kroll Forcemage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kroll Forcemage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unphasing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Unphasing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darkened Dawn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Darkened Dawn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Haldor Antimagic",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Haldor Antimagic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Brutal Warmage",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}{W}",
+	        "type": "Creature — Human Warrior Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Brutal Warmage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darkveil Borderpost",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Darkveil Borderpost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cinderstorm Borderpost",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Cinderstorm Borderpost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Direwood Borderpost",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Direwood Borderpost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Midland Borderpost",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Midland Borderpost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mossfall Borderpost",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Mossfall Borderpost.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cry of the Worldsoul",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Cry of the Worldsoul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Will of the Seven",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Will of the Seven.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sparkeater Hellkite",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Sparkeater Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vaato, Banished Necromancer",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{B}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Vaato, Banished Necromancer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Harron, Interplanar Zoologist",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Legendary Planeswalker — Harron ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Harron, Interplanar Zoologist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Split Eternities",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Split Eternities.jpg"
+	        }
+	    },
+	    {
+	        "name": "Direflame",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Direflame.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blossoming Defense",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Blossoming Defense.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blighted Blades",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Blighted Blades.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sword of the Written Word",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Sword of the Written Word.jpg"
+	        }
+	    },
+	    {
+	        "name": "Alchemist's Clock",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Alchemist's Clock.jpg"
+	        }
+	    },
+	    {
+	        "name": "Keeper's Resolve",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Keeper's Resolve.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sorceror's Familiar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Sorceror's Familiar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shadowstrike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Shadowstrike.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rally the Clans",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Rally the Clans.jpg"
+	        }
+	    },
+	    {
+	        "name": "Invigorator Tyrant",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Invigorator Tyrant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Slayer of Clans",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}{G}",
+	        "type": "Creature — Elemental Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Slayer of Clans.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kelaphel, Arvitch Deity",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{R}{G}",
+	        "type": "Legendary Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Kelaphel, Arvitch Deity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fleshfire Atronach",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Fleshfire Atronach.jpg"
+	        }
+	    },
+	    {
+	        "name": "Impossibility Lash",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Impossibility Lash.jpg"
+	        }
+	    },
+	    {
+	        "name": "Air Pocket",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Air Pocket.jpg"
+	        }
+	    },
+	    {
+	        "name": "Arcane Acquiescence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Arcane Acquiescence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frillmane Ambusher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Frillmane Ambusher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spellforce to Lifeforce",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Spellforce to Lifeforce.jpg"
+	        }
+	    },
+	    {
+	        "name": "Expended Reserves",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Castes-of-Siral/main/CSL-files/Expended Reserves.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Fluxform Tutelage
+		3 Rasilga's Denial
+		3 Clan Veteran
+		3 Knight of Ancient Tresh
+		3 Seize the Soul
+		3 Aether Pulse
+		3 Spell Parasite
+		3 Fogwalker Behemoth
+		3 Aether Forcemage
+		3 Shimmering Dawn
+		3 Aek Predator
+		3 Mage of the Elder Realm
+		3 Greenfist Provoker
+		3 Consuming Flames
+		3 Fortuitous Fortune
+		3 Mentor of the Meek
+		3 Riftborn Necromancer
+		3 Eternal Ghoul
+		3 Madia's Stratagem
+		3 Magus of the Lantern
+		3 Taritha the Liberator
+		3 Leyline Keeper
+		3 Stormwield Gauntlet
+		3 Emberflame Atronach
+		3 Rubble Renegade
+		3 Seeker of Dark Truths
+		3 Mayhem Feaster
+		3 Void Augur
+		3 Rewrite Existence
+		3 Strange Calm
+		3 Unusual Taming
+		3 Wingless Guardian
+		3 Flourish
+		3 Dauntless Overgrowth
+		3 Cleansing Arbiter
+		3 Ancient Favor
+		3 Nurturing Peatland
+		3 Sunbaked Canyon
+		3 Fiery Islet
+		3 Waterlogged Grove
+		3 Silent Clearing
+		3 Void Bauble
+		3 Arcanum Reverie
+		3 Brutal Warmage
+		3 Kelaphel, Arvitch Deity
+		3 Impossibility Lash
+		3 Expended Reserves
+		1 Madia Rasilga, Kroll Sorceress
+		1 Horde Hellkite
+		1 Solmist Warrior
+		1 Riftborn Mindsealer
+		1 Primordial Atronach
+		1 Worldrender Hydra
+		1 Slave of Death
+		1 Gilded Seraph
+		1 Ruos, the Crusader
+		1 Loc, Arcunum Prefect
+		1 Krikam, the Wanderer
+		1 Baelfire Mage
+		1 Ezzerdrex, Dark Scion
+		1 Helmorak, Scepter of the Castes
+		1 Cry of the Worldsoul
+		1 Will of the Seven
+		1 Sparkeater Hellkite
+		1 Vaato, Banished Necromancer
+		1 Harron, Interplanar Zoologist
+		1 Sword of the Written Word
+	[UncommonSlot(3)]
+		3 Seya Hexblade
+		3 Olphris Hexblade
+		3 Kroll Hexblade
+		3 Arvitch Hexblade
+		3 Haldor Hexblade
+		3 Deathcast Lich
+		3 Kroll Trickster
+		3 Etis Summoner
+		3 Dark Premonitions
+		3 Boonkeeper Wolves
+		3 Tlanoc Abomination
+		3 Grand Appearance
+		3 Cruel Lich
+		3 Sweep Away
+		3 Rumbleform Liege
+		3 Rumbleform Elemental
+		3 Seyan Banisher
+		3 Foresword Commander
+		3 Ghostly Shield
+		3 Knight of Tribulations
+		3 Skilled Diplomat
+		3 Goliath Drake
+		3 Drake Darkling
+		3 Truthtwister Sprite
+		3 Boneyard Dragon
+		3 Olphris Forcemage
+		3 Arvitch Forcemage
+		3 Dragonlord Blast
+		3 Homeland Obliteratation
+		3 Elusive Arachnid
+		3 Haldor Forcemage
+		3 Kroll Charm
+		3 Haldor Charm
+		3 Arvitch Charm
+		3 Seyan Charm
+		3 Olphris Charm
+		3 Hexsnatch Golem
+		3 Primordial Ritualist
+		3 Skyraid Darter
+		3 Kroll Inquisitor
+		3 Sigiled Tiger
+		3 Brainstorm
+		3 Knight of Despair
+		3 Surveil the Grounds
+		3 No Hesitation
+		3 Mana Architect
+		3 Snapshifter
+		3 Life Unrequited
+		3 Cunning Jailer
+		3 Primeval Genesis
+		3 Chronomancer's Trickery
+		3 Unsightly Insight
+		3 Witness the Nightmare
+		3 Brotherhood Revanant
+		3 Betrayed Watcher
+		3 Disarming Ray
+		3 Demigod's Fervor
+		3 Blaze Baron
+		3 Razorglaive Slayer
+		3 Reliquary Tower
+		3 Fraying Elemental
+		3 Revert Perspective
+		3 Dissipate
+		3 Brandishing Elf
+		3 Arcanum Vanguard
+		3 Perplexing Codex
+		3 Kroll Forcemage
+		3 Unphasing
+		3 Darkened Dawn
+		3 Haldor Antimagic
+		3 Split Eternities
+		3 Blossoming Defense
+		3 Keeper's Resolve
+		3 Shadowstrike
+		3 Slayer of Clans
+	[CommonSlot(10)]
+		4 Seya Forethinker
+		4 Kroll Requisitioner
+		4 Marauding Mage
+		4 Arcane Strength
+		4 Timely Heroics
+		4 Winterwalk Elk
+		4 Monster Quake
+		4 Farscape
+		4 Magus of Skies
+		4 Haldor Punisher
+		4 Hallowed Host
+		4 Courageous Deed
+		4 Unlife Emissary
+		4 Outskirt Strangelings
+		4 Tome Inspector
+		4 Aek Guardian
+		4 Moonlight Hunter
+		4 Arcanum Spirit
+		4 Tlanoc Scalelord
+		4 Expanse Sniper
+		4 Pit Rats
+		4 Boon Raider
+		4 Seal of Antimagic
+		4 Etis Paragon
+		4 Fortifier Knight
+		4 Lynxpact Knight
+		4 Merciful Spirit
+		4 Sentimental Seyan
+		4 Meadow Ambusher
+		4 Seyan Forcemage
+		4 Wasteland Practicioner
+		4 Tomorrow's Intrigue
+		4 Aether Twirl
+		4 Illuminate
+		4 Unprecedented Results
+		4 Roofjumper
+		4 Strike with Fear
+		4 Arvitch Butcher
+		4 Orcish Gutwrencher
+		4 Feral Earth
+		4 Exiled Firebrand
+		4 Impflesh
+		4 Infusion Shardshank
+		4 Plumes of Destruction
+		4 Ghost Spider
+		4 Oaken Groundshouker
+		4 Crop Rotation
+		4 Shot in the Dark
+		4 Cling to Survival
+		4 Fragmented Persona
+		4 Mournful Comrade
+		4 Mantle Healing
+		4 Truth's Deliverance
+		4 Kroll Witch
+		4 Revenge Fulfilled
+		4 Arcane Parasitism
+		4 Hunt the Lost
+		4 Emberflesh Salamander
+		4 Bragvir's Gambit
+		4 Stormcast Drake
+		4 Gorecrash Null
+		4 Brotherhood Medic
+		4 Dreadlands Impaler
+		4 Riftborn Seeker
+		4 Flowering Atronach
+		4 Stalking Leopard
+		4 Wayward Nexus
+		4 Cultivator Druid
+		4 Chivalrous Keeper
+		4 Hydrokin
+		4 Fieldtreader Paladin
+		4 Unexpected Diversion
+		4 Shadow Mage
+		4 Arcanum Benefactor
+		4 Grafted Wings
+		4 Napalm Elemental
+		4 Looming Presence
+		4 Mage Gear
+		4 Fate Scribbler
+		4 Twisted Tutelage
+		4 Curious Arcanist
+		4 Dragonlord's Staff
+		4 Battle Broken
+		4 Goreling
+		4 Expedite
+		4 Photomancer's Lens
+		4 Arcanum Reject
+		4 Rusted Automaton
+		4 Survivalist Domain
+		4 Caste Stronghold
+		4 Urchin's Cradle
+		4 Rugged Vantage
+		4 Darkveil Borderpost
+		4 Cinderstorm Borderpost
+		4 Direwood Borderpost
+		4 Midland Borderpost
+		4 Mossfall Borderpost
+		4 Direflame
+		4 Blighted Blades
+		4 Alchemist's Clock
+		4 Sorceror's Familiar
+		4 Rally the Clans
+		4 Invigorator Tyrant
+		4 Fleshfire Atronach
+		4 Air Pocket
+		4 Arcane Acquiescence
+		4 Frillmane Ambusher
+		4 Spellforce to Lifeforce
+	[BasicSlot(1)]
+		10 Plains
+		10 Swamp
+		10 Mountain
+		10 Forest
+		10 Island
+	
